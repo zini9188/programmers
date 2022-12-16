@@ -1,4 +1,3 @@
-[2021 KAKAO BLIND RECRUITMENT] 다른 사람의 풀이 LV.2
 #include <string>
 #include <vector>
 #include <algorithm>
