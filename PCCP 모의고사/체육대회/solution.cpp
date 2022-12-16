@@ -1,4 +1,3 @@
-PCCP 모의고사
 #include <string>
 #include <vector>
 #include <algorithm>
