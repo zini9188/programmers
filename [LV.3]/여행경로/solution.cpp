@@ -1,5 +1,3 @@
-여행경로
-
 #include <string>
 #include <vector>
 #include <algorithm>
